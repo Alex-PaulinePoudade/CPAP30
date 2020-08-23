@@ -1,6 +1,6 @@
 # CPAP30
-Continuous CPAP-30/31 prime sequence 1st order PG-P search
-2020-2021 Alex-Pauline Poudade (alexpoudade@live.fr)
+Continuous CPAP-29/30 prime sequence 1st order PG-P search
+2020-2021 Alex-Pauline Poudade (AlexPauline.Poudade@free.fr)
 CPAP30 v1.9
   Continuous CPAP-30/31 prime sequence 1st order PG-P search
   Synopsys : pypy3 CPAP30.py
